@@ -1,0 +1,1243 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(5, 5, 36);
+}
+#ul1 > li
+{
+    display: inline-block;
+    margin: 0 40px;
+    position: relative;
+    top: 70px;
+    left: 160px;
+    font-size: 20px;
+    border: inset 4px rgb(223, 224, 160);
+    padding: 5px;
+    color: white;
+    font-family: 'Segoe UI';
+}
+#ul1 > li:hover{
+    border: inset 4px rgb(206, 72, 10);
+    padding: 5px;
+}
+li>a{
+    text-decoration: none;
+    color: white;
+}
+
+#ul2 > li
+{
+    display: inline-block;
+    margin: 0 40px;
+    position: relative;
+    top: 70px;
+    left: 160px;
+    font-size: 20px;
+    border: inset 4px rgb(223, 224, 160);
+    padding: 5px;
+    color: white;
+    font-family: 'Segoe UI';
+}
+
+
+
+#ul2 > li:hover{
+    border: inset 4px rgb(206, 72, 10);
+    padding: 5px;
+}
+#ul2 > li
+{
+    position: relative;
+    left: 1025px;
+    top: -38px;
+    
+}
+#logo{
+    width: 100px;
+    height: auto;
+    margin: 25px;
+    float: left;
+}
+#image
+{
+    position: relative;
+    top: 100px;
+
+}
+#carlogo1
+{
+   width: 95px;
+   height: auto;
+   position: relative;
+   top: -480px;
+   left: 100px;
+
+}
+#carlogo2
+{
+   width: 170px;
+   height: auto;
+   position: relative;
+   top: -380px;
+   left: 170px;
+}
+#carlogo3
+{
+   width: 180px;
+   height: auto;
+   position: relative;
+   top: -240px;
+   left: -180px;
+}
+#carlogo4
+{
+   width: 120px;
+   height: auto;
+   position: relative;
+   top: -160px;
+   left: -110px;
+}
+.text
+{
+    font-family: Georgia;
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    top: -140px;
+    left: 55px;
+    display: inline-block;
+
+}
+#carbuick
+{
+   width: 500px;
+   position: relative;
+   top: 70px;
+   left: 610px;
+
+}
+#prtext1
+{
+   
+   color: white;
+   position: absolute;
+   top: 190px;
+   left:560px;
+   font-weight: 300;
+   font-size: 50px;
+
+
+
+}
+.div1
+{
+    background-color: rgb(74, 74, 80);
+    position: relative;
+    top: 250px;
+    height: 400px;
+
+}
+#carbuick1
+{
+    width: 500px;
+    position: relative;
+    top: 80px;
+    left: 50px;
+}
+.div2
+{
+    background-color: rgb(107, 107, 109);
+    position: relative;
+    height: 400px;
+    top: 300px;
+
+}
+.texts02
+{
+    color: white;
+    font-family:'Lucida Grande';
+    font-size: large;
+    position: relative;
+    top: -330px;
+    left: 700px;
+    font-size: 45px;
+    display: inline-block;
+}
+
+.div3
+{
+    color: white;
+    font-family: Arial;
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 125px;
+    top: -110px;
+
+}
+.div4
+{
+    color: white;
+    font-family: Arial;
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 70px;
+    top: -70px;
+}
+.texts03
+{
+    color: white;
+    font-family:'Lucida Grande';
+    font-size: large;
+    position: relative;
+    font-size: 45px;
+    top: -170px;
+}
+.circle1
+{
+    color: white;
+    font-family: Arial;
+    font-size: large;
+    width: 500px;
+    position: relative;
+    top: -120px;
+    
+}
+.div5
+{
+    background-color: rgb(141, 128, 115);
+    position: relative;
+    height: 400px;
+    top: 470px;
+}
+#carcad1
+{
+    width: 500px;
+   position: relative;
+   top: 65px;
+   left: 760px;
+}
+.div6
+{
+    background-color: rgb(170, 144, 121);
+    position: relative;
+    height: 400px;
+    top: 285px;
+}
+#carcad2
+{
+   width: 500px;
+   position: relative;
+   top: 60px;
+   left: 50px;
+}
+.div7
+{
+    background-color: rgb(94, 92, 87);
+    position: relative;
+    height: 400px;
+    top: 220px;
+}
+.div8
+{
+    background-color: rgb(107, 109, 121);
+    position: relative;
+    height: 400px;
+    top: 105px;
+}
+#gmc1
+{
+    width: 500px;
+   position: relative;
+   top: 60px;
+   left: 760px;
+}
+#gmc2
+{
+    width: 500px;
+   position: relative;
+   top: 60px;
+   left: 50px;
+}
+#prtext2
+{
+   
+   color: white;
+   position: absolute;
+   top: 1190px;
+   left:520px;
+   font-weight: 300;
+   font-size: 50px;
+
+
+}
+#prtext3
+{
+   
+   color: white;
+   position: absolute;
+   top: 2228px;
+   left:580px;
+   font-weight: 300;
+   font-size: 50px;
+
+
+}
+#prtext4
+{
+   
+   color: white;
+   position: absolute;
+   top: 3290px;
+   left:500px;
+   font-weight: 300;
+   font-size: 50px;
+
+
+}
+.div9
+{
+    background-color: rgb(148, 134, 125);
+    position: relative;
+    height: 400px;
+    top: 86px;
+}
+.div10
+{
+    background-color: rgb(68, 66, 65);
+    position: relative;
+    height: 400px;
+    top: -75px;
+}
+#chevrolet1
+{
+    width: 500px;
+   position: relative;
+   top: 60px;
+   left: 50px;
+}
+#chevrolet2
+{
+    width: 500px;
+   position: relative;
+   top: 60px;
+   left: 760px;
+}
+
+.click
+{
+    color: rgb(105, 8, 8);
+    text-decoration: none;
+    
+    
+}
+.click:hover
+{
+    color: rgb(217, 255, 0);
+}
+.texts04 /* елеганција и удобност*/
+{
+    color: white;
+    font-family:'Lucida Grande';
+    font-size: large;
+    position: relative;
+    font-size: 45px;
+    top: 90px;
+    left: 45px;
+    width: fit-content;
+}
+.texts05/* стабилност И ширина*/
+{
+    color: white;
+    font-family:'Lucida Grande';
+    font-size: large;
+    position: relative;
+    font-size: 45px;
+    top: -120px;
+    left: 700px;
+    width: fit-content;
+}
+.texts06/* згеено срце*/
+{
+    color: white;
+    font-family:'Lucida Grande';
+    font-size: large;
+    position: relative;
+    font-size: 45px;
+    top: -150px;
+    left: 90px;
+    width: fit-content;
+}
+.texts07/* ФАМИЛИЈАРНОСТ*/
+{
+    color: white;
+    font-family:'Lucida Grande';
+    font-size: large;
+    position: relative;
+    font-size: 45px;
+    top: -260px;
+    left: 700px;
+    width: fit-content;
+}
+.texts08/* АГРЕСИВНО ЕЛЕГАНТНА*/
+{
+    color: white;
+    font-family:'Lucida Grande';
+    font-size: large;
+    position: relative;
+    font-size: 45px;
+    top: -400px;
+    left: 60px;
+    width: fit-content;
+}
+.texts01/* ГЛОМАЗНОСТ*/
+{
+    color: white;
+    font-family:'Lucida Grande';
+    font-size: large;
+    position: relative;
+    font-size: 45px;
+    top: -220px;
+    left: 580px;
+    width: fit-content;
+}
+.div11
+{
+    color: white;
+    font-family: Arial;
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 90px;
+    top: 150px;
+
+}
+.div12
+{
+    color: white;
+    font-family: Arial;
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 725px;
+    top: -80px;
+
+}.div13
+{
+    color: white;
+    font-family: Arial;
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 90px;
+    top: -100px;
+
+}
+.div14
+{
+    color: white;
+    font-family: Arial;
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 650px;
+    top: -200px;
+
+}
+.div15
+{
+    color: white;
+    font-family: Arial;
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 700px;
+    top: -240px;
+
+}
+.div16
+{
+    color: white;
+    font-family: Arial;
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 125px;
+    top: -400px;
+
+}
+.dollar1
+{
+    color: white;
+    font-family: Arial;
+    font-size:x-large;
+    width: fit-content;
+    position: relative;
+    display: inline-block;
+    left: 830px;
+    top: 94px;
+}
+.dollar2
+{
+    color: white;
+    font-family: Arial;
+    font-size: x-large;
+    width: fit-content;
+    position: relative;
+    display: inline-block;
+    left: 350px;
+    top: 100px;
+}
+.dollar3
+{
+    color: white;
+    font-family: Arial;
+    font-size: x-large;
+    width: fit-content;
+    position: relative;
+    display: inline-block;
+    left: 820px;
+    top: 436px;
+}
+
+.dollar4
+{
+    color: white;
+    font-family: Arial;
+    font-size: x-large;
+    width: fit-content;
+    position: relative;
+    display: inline-block;
+    left: 342px;
+    top: 245px;
+}
+
+.dollar5
+{
+    color: white;
+    font-family: Arial;
+    font-size: x-large;
+    width: fit-content;
+    position: relative;
+    display: inline-block;
+    left: 800px;
+    top: 180px;
+}
+
+.dollar6
+{
+    color: white;
+    font-family: Arial;
+    font-size: x-large;
+    width: fit-content;
+    position: relative;
+    display: inline-block;
+    left: 325px;
+    top: 10px;
+}
+
+.dollar7
+{
+    color: white;
+    font-family: Arial;
+    font-size: x-large;
+    width: fit-content;
+    position: relative;
+    display: inline-block;
+    left: 350px;
+    top: -10px;
+}
+.dollar8
+{
+    color: white;
+    font-family: Arial;
+    font-size: x-large;
+    width: fit-content;
+    position: relative;
+    display: inline-block;
+    left: 830px;
+    top: -170px;
+}
+.poracaj1
+{
+    color: white;
+    font-family: Arial;
+    font-size: medium;
+    position: relative;
+    display: inline-block;
+    left: 1050px;
+    top: 50px;
+    width: fit-content;
+}
+.poracaj2
+{
+    color: white;
+    font-family: Arial;
+    font-size: medium;
+    position: relative;
+    display: inline-block;
+    left: 90px;
+    top: 60px;
+    width: fit-content;
+}
+.poracaj3
+{
+    color: white;
+    font-family: Arial;
+    font-size: medium;
+    position: relative;
+    display: inline-block;
+    left: 1049px;
+    top: 395px;
+    width: fit-content;
+}
+.poracaj4
+{
+    color: white;
+    font-family: Arial;
+    font-size: medium;
+    position: relative;
+    display: inline-block;
+    left: 100px;
+    top: 208px;
+    width: fit-content;
+}
+.poracaj5
+{
+    color: white;
+    font-family: Arial;
+    font-size: medium;
+    position: relative;
+    display: inline-block;
+    left: 1045px;
+    top: 140px;
+    width: fit-content;
+}
+.poracaj6
+{
+    color: white;
+    font-family: Arial;
+    font-size: medium;
+    width: fit-content;
+    position: relative;
+    display: inline-block;
+    left: 125px;
+    top: -25px;
+}
+.poracaj7
+{
+    color: white;
+    font-family: Arial;
+    font-size: lmedium;
+    width: fit-content;
+    position: relative;
+    display: inline-block;
+    left: 125px;
+    top: -45px;
+}
+.poracaj8
+{
+    color: white;
+    font-family: Arial;
+    font-size: medium;
+    width: fit-content;
+    position: relative;
+    display: inline-block;
+    left: 1070px;
+    top: -210px;
+}
+.table
+{
+    color: #030303;
+      background: rgb(132, 152, 245);
+}
+.bn3637 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.7rem 2rem;
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    color: #860000;
+    backface-visibility: hidden;
+    border: 0.3rem solid transparent;
+    border-radius: 3rem;
+  }
+  .bn38 {
+    border-color: transparent;
+    transition: background-color 0.3s ease-in-out;
+  }
+    
+  .bn38:hover {
+    background-color: rgb(5, 11, 92)
+  }
+  .table1
+  {
+    position: relative;
+    top:100px;
+    left: 470px;
+    border:rgb(103, 103, 235);
+    width: 400px;
+
+  }
+  #main
+  {
+    background-color: rgb(139, 105, 60);
+    width: 40%;
+    position: relative;
+    left: 400px;
+    height: fit-content;
+    top: -200px;
+
+  }
+  
+  .bn1 {
+    display: inline-block;
+    padding: 0.6em 1.7em;
+    border: 0.1em solid rgb(165, 94, 27);
+    margin: 0 0.3em 0.3em 0;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    color: rgb(44, 29, 6);
+    text-align: center;
+    transition: all 0.2s;
+  }
+  
+  .bn1:hover {
+    color: rgb(190, 131, 52);
+    background-color: rgb(11, 6, 58)
+  }
+  .click1
+  {
+    background-color: rgb(131, 102, 43);
+    color: #ffffff;
+    font-size: 1.1em;
+    font-weight: 100;
+    position: relative;
+    outline: none;
+    border-radius: 10px;
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    height: 45px;
+    width: 120px;
+  }
+  footer
+  {
+    text-align: center;
+    padding: 17px;
+    background-color: rgb(99, 32, 9);
+    color: white;
+    background: linear-gradient(to bottom, rgb(5, 5, 36) 7%, #642404 100%)
+  }
+  .footer1
+  {
+    text-align: left;
+    font-size: x-large;
+    color: black;
+    font-family: Georgia;
+    
+  }
+  .footer2
+  {
+    text-align: left;
+    position: relative;
+    top: 60px;
+    font-family: Impact;
+    font-size: larger;
+  }
+  .footer3
+  {
+    font-family: sans-serif;
+  }
+.table2
+{
+    position: relative;
+    width: 400px;
+    background-color: rgb(135, 150, 150);
+    top: 220px;
+    left: 440px;
+    border-radius: 26px 0px 27px 0px;
+    -webkit-border-radius: 26px 0px 27px 0px;
+    border: 3px inset #ff6550;
+    -moz-border-radius: 26px 0px 27px 0px;
+   
+}
+.naslov
+{
+    font-family:Impact;
+    color: rgb(187, 189, 192); 
+    background:rgb(112, 58, 31);
+    position: relative;
+    top: 200px;
+    width: 90%;
+    left: 70px;
+}
+.naslov > h2{
+    color: #0c0c0c;
+    padding-left: 200px;
+}
+
+
+.anketa
+{
+    position: relative;
+    font-family: Arial;
+
+    
+}
+.phar1
+{
+    padding-left: 20px;
+    text-indent: 50px;
+}
+
+.phar2
+{
+    padding-left: 20px;
+    text-indent: 50px;
+
+}
+.area
+  {
+      background-color: #aca88c;
+      color: rgb(13, 3, 22);
+      font-weight: 700;
+      font-family: 'Lucida Sans';
+      padding-left: 5%;
+      position: relative;
+      left: 9px;
+      font-size: medium;
+  }
+
+
+
+
+
+
+  #likeButton {
+    background-color: #1da1f2;
+    border: none;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #likeButton:hover {
+    background-color: #053d58;
+  }
+  
+  #likeCount {
+    margin-left: 8px;
+    font-size: 14px;
+    color: #333;
+  }         
+
+
+/*....................................*/
+  #likeButton2 {
+    background-color: #1da1f2;
+    border: none;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #likeButton2:hover {
+    background-color: #053d58;
+  }
+  
+  #likeCount2 {
+    margin-left: 8px;
+    font-size: 14px;
+    color: #333;
+  }       
+  /*....................................*/  
+  #likeButton3 {
+    background-color: #1da1f2;
+    border: none;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #likeButton3:hover {
+    background-color: #053d58;
+  }
+  
+  #likeCount3 {
+    margin-left: 8px;
+    font-size: 14px;
+    color: #333;
+  }   
+
+  /*....................................*/
+  #likeButton4 {
+    background-color: #1da1f2;
+    border: none;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #likeButton4:hover {
+    background-color: #053d58;
+  }
+  
+  #likeCount4 {
+    margin-left: 8px;
+    font-size: 14px;
+    color: #333;
+  }   
+  /**********************************BUICK****************************************/
+
+
+  .newbuick /*СИВА СЛИКА*/
+  {
+    background-color: rgb(74, 74, 80);
+    position: relative;
+    top: 250px;
+    height: 400px;
+  }
+  .title1/*НАСЛОВ*/
+ {
+    font-family: Tahoma;
+    display: inline-block;
+    position: relative;
+    left: -90px;
+    top: -20px;
+ }
+.paragraph1 /*ПАРАГРАФ*/
+{
+    color: white;
+    font-family:'Lucida Sans Unicode';
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 40px;
+    top: 80px;
+    display: inline-block;
+   
+}
+.wildcat/*СЛИКА*/
+{
+    width: 500px;
+    position: relative;
+    left: 50px;
+    
+}
+.lajk1 
+{
+   position: relative;
+   top: -185px;
+   left: 950px;
+   width: 80px;
+}
+.pregled1
+{
+    background-color: #aca88c;
+      color: rgb(13, 3, 22);
+      font-weight: 700;
+      font-family: 'Lucida Sans';
+      padding-left: 5%;
+      position: relative;
+      left: 670px;
+      top: -175px;
+      font-size: medium;
+}
+.q1
+{
+    color: white;
+    font-family:'Lucida Sans Unicode';
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 170px;
+    top: -155px;
+    display: inline-block;
+}
+
+
+    /*************************************CHEVROLET****************************************/
+
+
+  .newchevrolet/*СИВА СЛИКА*/
+  {
+    background-color: rgb(107, 107, 109);
+    position: relative;
+    height: 400px;
+    top: 300px;
+  }
+.title2 /*НАСЛОВ*/
+{
+    font-family: Tahoma;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    top: -30px;
+}
+.paragraph2/*ПАРАГРАФ*/
+{
+    color: white;
+    font-family:'Lucida Sans Unicode';
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 280px;
+    top: 80px;
+    display: inline-block;
+}
+.equinox/*СЛИКА*/
+  {
+    width: 500px;
+    position: relative;
+    left: 50px;
+    top: -20px;
+
+}
+.lajk2
+{
+  
+    position: relative;
+    top: -180px;
+    left: 975px;
+    width: 80px;
+ }
+
+.pregled2
+{
+    background-color: #aca88c;
+      color: rgb(13, 3, 22);
+      font-weight: 700;
+      font-family: 'Lucida Sans';
+      padding-left: 5%;
+      position: relative;
+      left: 690px;
+      top: -175px;
+      font-size: medium;
+}
+.q2
+{
+    color: white;
+    font-family:'Lucida Sans Unicode';
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 190px;
+    top: -150px;
+    display: inline-block;
+}
+
+
+    /***********************************CADILLAC***********************************/
+
+  .newcadillac/*СИВА СЛИКА*/
+  {
+    background-color: rgb(126, 126, 131);
+    position: relative;
+    height: 400px;
+    top: 350px;
+  }
+.title3/*НАСЛОВ*/
+{
+    font-family: Tahoma;
+    display: inline-block;
+    position: relative;
+    left: 130px;
+}
+.paragraph3/*ПАРАГРАФ*/
+{
+    color: white;
+    font-family:'Lucida Sans Unicode';
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 350px;
+    top: 80px;
+    display: inline-block;
+}
+.celestiq/*СЛИКА*/
+{
+    width: 500px;
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+.lajk3
+{
+    position: relative;
+    top: -170px;
+    left: 975px;
+    width: 80px;
+}
+.pregled3
+{
+    background-color: #aca88c;
+      color: rgb(13, 3, 22);
+      font-weight: 700;
+      font-family: 'Lucida Sans';
+      padding-left: 5%;
+      position: relative;
+      left: 690px;
+      top: -175px;
+      font-size: medium;
+}   
+.q3
+{
+    color: white;
+    font-family:'Lucida Sans Unicode';
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 180px;
+    top: -140px;
+    display: inline-block;
+}
+
+
+    /**************************************GMC**************************************/
+
+
+  .newgmc/*СИВА СЛИКА*/
+  {
+    background-color: rgb(139, 139, 153);
+    position: relative;
+    height: 400px;
+    top: 400px;
+  }
+
+.title4/*НАСЛОВ*/
+{
+    font-family: Tahoma;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: -20px;
+}
+
+.sierra/*СЛИКА*/
+{
+    width: 500px;
+    position: relative;
+    left: 50px;
+}
+
+
+.lajk4
+{
+    position: relative;
+    top: -170px;
+    left: 975px;
+    width: 80px;
+}
+.pregled4
+{
+    background-color: #aca88c;
+      color: rgb(13, 3, 22);
+      font-weight: 700;
+      font-family: 'Lucida Sans';
+      padding-left: 5%;
+      position: relative;
+      left: 690px;
+      top: -175px;
+      font-size: medium;
+}  
+.paragraph4/*ПАРАГРАФ*/
+{
+    color: white;
+    font-family:'Lucida Sans Unicode';
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 110px;
+    top: 90px;
+    display: inline-block;
+}
+
+.q4
+{
+    color: white;
+    font-family:'Lucida Sans Unicode';
+    font-size: large;
+    width: 500px;
+    position: relative;
+    display: inline-block;
+    left: 185px;
+    top: -140px;
+    display: inline-block;
+}
+#comments
+{
+    color: #030303;
+}
+
+.hero
+{
+    position: absolute;
+    left: 410px;
+    bottom: -1700px;
+    color: white; 
+    margin: 0;
+    pad: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+.card
+{
+    width: 400px;
+    background: #fff;
+    padding: 40px;
+    border-radius: 15px;
+    text-align: center;
+    color: #333;
+}
+.card h1
+{
+    font-weight: 500;
+    color:#000;
+}
+.card img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+
+
+
+
